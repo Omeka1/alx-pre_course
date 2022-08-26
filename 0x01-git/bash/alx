@@ -1,2 +1,2 @@
-ALX School:wq
-ALX School
+#!/bin/bash
+ echo "ALX"
